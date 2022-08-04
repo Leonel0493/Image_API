@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{25EF0D7A-7D5D-417F-8348-BE08D2523D74}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Image_API/Program.cs">
+    <Files>
+      <File FileName="Image_API/Controllers/ImagesController.cs" Line="26" Column="62" />
+      <File FileName="Image_API/ImagesList.cs" Line="8" Column="27" />
+      <File FileName="Image_API/ImagesRequest.cs" Line="6" Column="43" />
+      <File FileName="Image_API/Program.cs" Line="37" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Image_API" expanded="True">
+            <Node name="Image_API" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Image__API PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
